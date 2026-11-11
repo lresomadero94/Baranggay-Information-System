@@ -1,0 +1,4 @@
+config.local.php
+.env
+*.sql.zip
+.DS_Store
